@@ -1,10 +1,10 @@
-# Health-Care-Plus
+Health-Care-Plus
 
 A web application for patients to **find hospitals, doctors, and book online appointment slots** easily. Health-Care-Plus aims to simplify healthcare management for patients and provide seamless access to hospital services.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - Search for **hospitals and doctors** based on specialty or location  
 - **Book online appointment slots** with doctors  
@@ -13,7 +13,7 @@ A web application for patients to **find hospitals, doctors, and book online app
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** [Specify your backend, e.g., Python Flask, Node.js, etc.]  
@@ -22,7 +22,7 @@ A web application for patients to **find hospitals, doctors, and book online app
 
 ---
 
-## 💻 Installation / Usage
+💻 Installation / Usage
 
 1. Clone the repository:  
    ```bash
